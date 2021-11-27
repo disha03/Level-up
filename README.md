@@ -15,8 +15,9 @@ Level-Up is a free blended learning platform developed for digital learning that
 - Students can send a message to any instructor in the All Teachers List.
 - In the Marks option, students can check their grades.
 
+<br>
 <img align="left" alt="GIF" src= "https://cdn.iste.org/www-root/560x315-Online-Learning-Landing-Page-Main-Image.gif" width="450" height="320" />
-
+ 
 ### 👨‍💻 For Teachers :
 - Teachers can use the Add Student option to add students to their class.
 - After adding students to their class, the teacher can assign or adjust grades to their students.

@@ -9,16 +9,16 @@ Level-Up is a free blended learning platform developed for digital learning that
 <img align="left" alt="GIF" src="https://cdn.dribbble.com/users/5137854/screenshots/11067373/media/9b56464ef949e525e01218a755d8968f.gif" width="450" height="320" />
 
 ### 👨‍💻 For Students :
--Students can log in to the portal and stay up to date on all of the events in the classroom.
--In the Class Notice option, students can see the notice delivered by their teacher.
--Students can download their assignments and submit them using the Assignments option(It is not possible to modify an assignment once it has been submitted.)
--Students can send a message to any instructor in the All Teachers List.
--In the Marks option, students can check their grades.
+- Students can log in to the portal and stay up to date on all of the events in the classroom.
+- In the Class Notice option, students can see the notice delivered by their teacher.
+- Students can download their assignments and submit them using the Assignments option(It is not possible to modify an assignment once it has been submitted.)
+- Students can send a message to any instructor in the All Teachers List.
+- In the Marks option, students can check their grades.
 
 ### 👨‍💻 For Teachers
--Teachers can use the Add Student option to add students to their class.
--After adding students to their class, the teacher can assign or adjust grades to their students.
--Teachers can also compose a note that will be sent to their entire class.
--Teachers can use the upload assignment option to upload assignments.
--Teachers can review their student's assignments and assign grades accordingly.
--A teacher can see all of the grades they've awarded a student by going to their Marks profile and also Make changes to their marks.
+- Teachers can use the Add Student option to add students to their class.
+- After adding students to their class, the teacher can assign or adjust grades to their students.
+- Teachers can also compose a note that will be sent to their entire class.
+- Teachers can use the upload assignment option to upload assignments.
+- Teachers can review their student's assignments and assign grades accordingly.
+- A teacher can see all of the grades they've awarded a student by going to their Marks profile and also Make changes to their marks.

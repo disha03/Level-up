@@ -30,7 +30,6 @@ Level-Up is a free blended learning platform developed for digital learning that
 
 ## Contact Info:
 
-</br>
 
 ### Disha Gupta
 

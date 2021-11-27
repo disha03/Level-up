@@ -26,6 +26,8 @@ Level-Up is a free blended learning platform developed for digital learning that
 - Teachers can review their student's assignments and assign grades accordingly.
 - A teacher can see all of the grades they've awarded a student by going to their Marks profile and also Make changes to their marks.
 
+<hr>
+<div aligh="center>
 </br>
 <a href="https://www.linkedin.com/in/disha-gupta-430188173/">
   <img align="left" alt="Disha LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -38,3 +40,5 @@ Level-Up is a free blended learning platform developed for digital learning that
 </a>
 </br>
 </br>
+</div>
+                                                                                                                                                  

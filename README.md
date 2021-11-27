@@ -25,3 +25,16 @@ Level-Up is a free blended learning platform developed for digital learning that
 - Teachers can use the upload assignment option to upload assignments.
 - Teachers can review their student's assignments and assign grades accordingly.
 - A teacher can see all of the grades they've awarded a student by going to their Marks profile and also Make changes to their marks.
+
+</br>
+<a href="https://www.linkedin.com/in/disha-gupta-430188173/">
+  <img align="left" alt="Disha LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://github.com/disha03">
+  <img align="left" alt="Disha Github" width="22px" src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/github.svg" />
+</a>
+<a href="mailto:dishagupta688@gmail.com">
+  <img align="left" alt="Disha Gupta | Email" width="22px" src="https://raw.githubusercontent.com/Automattic/social-logos/master/svg-min/mail.svg" />
+</a>
+</br>
+</br>

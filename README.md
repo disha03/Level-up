@@ -14,6 +14,8 @@ Level-Up is a free blended learning platform developed for digital learning that
 - Students can download their assignments and submit them using the Assignments option(It is not possible to modify an assignment once it has been submitted.)
 - Students can send a message to any instructor in the All Teachers List.
 - In the Marks option, students can check their grades.
+-
+<img align="left" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Flearn-online&psig=AOvVaw1XyM6GbyPgWoXeI-pdupey&ust=1638108485880000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCODEmejbuPQCFQAAAAAdAAAAABBb" width="450" height="320" />
 
 ### 👨‍💻 For Teachers
 - Teachers can use the Add Student option to add students to their class.

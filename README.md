@@ -33,6 +33,9 @@ Level-Up is a free blended learning platform developed for digital learning that
 
 ### Disha Gupta
 
+<a href="https://disha03.github.io/Disha_Portfolio/">
+  <img align="left" alt="Disha Portfolio" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/portfolio.svg" />
+</a>
 <a href="https://www.linkedin.com/in/disha-gupta-430188173/">
   <img align="left" alt="Disha LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>

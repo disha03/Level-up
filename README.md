@@ -10,7 +10,9 @@ Level-Up is a free blended learning platform developed for digital learning that
 
 ### 👨‍💻 For Students
 -Students can log in to the portal and stay up to date on all of the events in the classroom.
+
 -In the Class Notice option, students can see the notice delivered by their teacher.
+
 -Students can download their assignments and submit them using the Assignments option(It is not possible to modify an assignment once it has been submitted.)
 -Students can send a message to any instructor in the All Teachers List.
 -In the Marks option, students can check their grades.

@@ -28,7 +28,7 @@ SECRET_KEY = '13x8r2se41dawv$7!a-p_h4ni$^i^+r@le7wuadd6gmzb=$ss*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_HOST = ''
 EMAIL_HOST_USER = ''
 EMAIL_HOST_PASSWORD = ''
 EMAIL_PORT = 587
@@ -36,7 +36,7 @@ EMAIL_USE_TLS = True
 EMAIL_USE_SSL = False
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 
-ALLOWED_HOSTS = [ '*' ]
+ALLOWED_HOSTS = [ 'disha03.pythonanywhere.com' ]
 
 AUTH_USER_MODEL = 'classroom.User'
 
@@ -133,6 +133,7 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 STATICFILES_DIRS = [STATIC_DIR,]
-
+STATIC_ROOT='/home/Disha03/Level-up/static'
 MEDIA_ROOT = MEDIA_DIR
 MEDIA_URL = '/media/'
+
